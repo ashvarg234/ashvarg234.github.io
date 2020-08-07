@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Lemonada', cursive;
+    text-align: center;
+    color: #1A1C69;
+}
+nav {
+    text-align: center;
+}
+.container {
+    border: 1px none #dccfc9;
+    margin: auto;
+    width: 50%;
+    padding-left: 70px;
+}
+.image {
+    margin: auto;
+    padding-left: 100px;
+}
+body {
+    background-color: #3b3d83;
+}
+.list {
+    border: 2px dotted  #3b3d83; 
+    background-color: #691a1d;
+}
