@@ -2,6 +2,7 @@ h1 {
     font-family: 'Lemonada', cursive;
     text-align: center;
     color: #1A1C69;
+    padding-left: 45px;
 }
 nav {
     text-align: center;
@@ -14,12 +15,19 @@ nav {
 }
 .image {
     margin: auto;
-    padding-left: 100px;
+    padding-left: 95px;
 }
 body {
     background-color: #3b3d83;
+    font-family: 
 }
 .list {
     border: 2px dotted  #3b3d83; 
     background-color: #691a1d;
+}
+p {
+    padding-left: 55px;
+}
+.info {
+    text-align: center;
 }
